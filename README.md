@@ -9,3 +9,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 5. <a href="https://www.kaggle.com/rohanrao/air-quality-data-in-india">Air Quality Data in India(2015-2020)</a>
 6. <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data">Used Cars Dataset</a>
 7. <a href="https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Suicide Rates Overview 1985 to 2016</a>
+8. <a href="https://www.kaggle.com/andrewmvd/udemy-courses">Udemy Courses</a>
