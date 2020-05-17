@@ -10,3 +10,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 6. <a href="https://www.kaggle.com/austinreese/craigslist-carstrucks-data">Used Cars Dataset</a>
 7. <a href="https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Suicide Rates Overview 1985 to 2016</a>
 8. <a href="https://www.kaggle.com/andrewmvd/udemy-courses">Udemy Courses</a>
+9. <a href="https://www.kaggle.com/gregorut/videogamesales">Video Game Sales</a>
