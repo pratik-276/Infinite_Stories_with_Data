@@ -11,3 +11,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 7. <a href="https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Suicide Rates Overview 1985 to 2016</a>
 8. <a href="https://www.kaggle.com/andrewmvd/udemy-courses">Udemy Courses</a>
 9. <a href="https://www.kaggle.com/gregorut/videogamesales">Video Game Sales</a>
+10. <a href="https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016">Obesity among adults by country, 1975-2016</a>
