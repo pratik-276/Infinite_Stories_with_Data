@@ -14,3 +14,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 10. <a href="https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016">Obesity among adults by country, 1975-2016</a>
 11. <a href="https://www.kaggle.com/shivamb/netflix-shows">Netflix Movies and TV Shows</a>
 12. <a href="https://www.kaggle.com/sudalairajkumar/nifty-indices-dataset">Nifty Indices Dataset</a>
+13. <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe">Malnutrition across the globe</a>
