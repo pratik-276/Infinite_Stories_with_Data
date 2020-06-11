@@ -15,3 +15,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 11. <a href="https://www.kaggle.com/shivamb/netflix-shows">Netflix Movies and TV Shows</a>
 12. <a href="https://www.kaggle.com/sudalairajkumar/nifty-indices-dataset">Nifty Indices Dataset</a>
 13. <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe">Malnutrition across the globe</a>
+14. <a href="https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data">Palmer Archipelago (Antarctica) penguin data</a>
