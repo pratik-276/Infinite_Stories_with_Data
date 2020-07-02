@@ -17,3 +17,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 13. <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe">Malnutrition across the globe</a>
 14. <a href="https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data">Palmer Archipelago (Antarctica) penguin data</a>
 15. <a href="https://www.kaggle.com/sovannt/world-bank-youth-unemployment">World Bank Youth Unemployment Rates</a>
+16. <a href="https://www.kaggle.com/promptcloud/jobs-on-naukricom">Jobs On Naukri.com</a>
