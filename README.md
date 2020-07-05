@@ -18,3 +18,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 14. <a href="https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data">Palmer Archipelago (Antarctica) penguin data</a>
 15. <a href="https://www.kaggle.com/sovannt/world-bank-youth-unemployment">World Bank Youth Unemployment Rates</a>
 16. <a href="https://www.kaggle.com/promptcloud/jobs-on-naukricom">Jobs On Naukri.com</a>
+17. <a href="https://www.kaggle.com/uciml/breast-cancer-wisconsin-data">Breast Cancer Wisconsin (Diagnostic) Data Set</a>
