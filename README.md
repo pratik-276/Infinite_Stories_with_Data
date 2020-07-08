@@ -19,3 +19,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 15. <a href="https://www.kaggle.com/sovannt/world-bank-youth-unemployment">World Bank Youth Unemployment Rates</a>
 16. <a href="https://www.kaggle.com/promptcloud/jobs-on-naukricom">Jobs On Naukri.com</a>
 17. <a href="https://www.kaggle.com/uciml/breast-cancer-wisconsin-data">Breast Cancer Wisconsin (Diagnostic) Data Set</a>
+18. <a href="https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020">Daily Power Generation in India (2017-2020)</a>
