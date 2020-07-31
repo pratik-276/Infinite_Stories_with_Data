@@ -22,3 +22,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 18. <a href="https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020">Daily Power Generation in India (2017-2020)</a>
 19. <a href="https://www.kaggle.com/karangadiya/fifa19">FIFA 19 complete player dataset</a>
 20. <a href="https://www.kaggle.com/srinivas1/agricuture-crops-production-in-india">Agriculture Crop Production In India</a>
+21. <a href="https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data">Exoplanet Hunting in Deep Space</a>
