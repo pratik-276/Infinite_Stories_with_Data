@@ -25,3 +25,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 21. <a href="https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data">Exoplanet Hunting in Deep Space</a>
 22. <a href="https://www.kaggle.com/abcsds/pokemon">Pokemon with stats</a>
 23. <a href="https://www.kaggle.com/gpreda/covid19-tweets">COVID19 Tweets</a>
+24. <a href="https://www.kaggle.com/andrewmvd/heart-failure-clinical-data">Heart Failure Prediction</a>
