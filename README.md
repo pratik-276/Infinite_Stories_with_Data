@@ -27,3 +27,4 @@ This repo consists of my analysis on random datasets using various ststistical a
 23. <a href="https://www.kaggle.com/gpreda/covid19-tweets">COVID19 Tweets</a>
 24. <a href="https://www.kaggle.com/andrewmvd/heart-failure-clinical-data">Heart Failure Prediction</a>
 25. <a href="https://www.kaggle.com/agirlcoding/all-space-missions-from-1957">All Space Missions from 1957</a>
+26. <a href="https://www.kaggle.com/nowke9/ipldata">Indian Premier League 2008-2019</a>
