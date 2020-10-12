@@ -1,4 +1,4 @@
-# Infinite_Stories_with_Data
+# Infinite_Stories_with_Data 
 This repo consists of my analysis on random datasets using various ststistical and visualization techniques.
 
 # Datasets
